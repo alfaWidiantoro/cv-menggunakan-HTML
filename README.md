@@ -1,2 +1,2 @@
-WPU-Uji-coba
-uji coba Belajar membuat CV menggunakan HTML
+WPU-CV-menggunakan-HTML
+-uji coba Belajar membuat CV menggunakan HTML
